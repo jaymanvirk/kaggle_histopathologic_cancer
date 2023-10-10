@@ -1,2 +1,1 @@
-# kaggle_histopathologic_cancer_detection
-Histopathologic Cancer Detection: Simple CNN comparison
+# Histopathologic cancer detection: Simple CNN comparison
